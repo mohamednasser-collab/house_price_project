@@ -4,8 +4,6 @@ An end-to-end machine learning product that predicts house prices in India from 
 messy listing data. The pipeline covers data cleaning, model training and evaluation,
 a FastAPI backend, and a React + TypeScript frontend.
 
-![Home Page](docs/screenshot-home.png)
-![Result Page](docs/screenshot-result.png)
 
 ## Overview
 
